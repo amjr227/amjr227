@@ -1,5 +1,3 @@
-# AMJR-overview
-
 ```js
 const AMJR = {
    name : "Ahmed",
