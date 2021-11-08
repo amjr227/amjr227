@@ -6,7 +6,7 @@ const AMJR = {
    MySkills : {
       Librarys : ["discord.js", "telegraf.js", "reveal.js"],
   };
-  Languages : ["HTML" , "CSS" , "JavaScript", "LaTeX"]
+  Languages : ["HTML" , "CSS" , "JavaScript", "LaTeX", "Markdown"]
 };
 
 ```
