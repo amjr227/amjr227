@@ -2,7 +2,7 @@
 const AMJR = {
    name : "Ahmed",
    Age : "17",
-   location : "Palestine",
+   location : ["Saudi Arabia", "Palestine"]
    MySkills : {
       Librarys : ["discord.js", "telegraf.js", "reveal.js"],
   };
