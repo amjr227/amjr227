@@ -1,8 +1,8 @@
 ```js
 const AMJR = {
    name : "Ahmed",
-   Age : "19",
-   location : "Saudi Arabia", 
+   Age : "22",
+   location : "incognito", 
    MySkills : {
       Librarys : ["discord.js", "telegraf.js", "reveal.js"],
   };
